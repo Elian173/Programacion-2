@@ -1,0 +1,10 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\bin\Debug\Ejercicio31FIX.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\bin\Debug\Ejercicio31FIX.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\bin\Debug\Ejercicio31FIX.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\bin\Debug\Entidades.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\bin\Debug\Entidades.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\obj\Debug\Ejercicio31FIX.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\obj\Debug\Ejercicio31FIX.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\obj\Debug\Ejercicio31FIX.csproj.CopyComplete
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\obj\Debug\Ejercicio31FIX.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\obj\Debug\Ejercicio31FIX.pdb

@@ -1,0 +1,6 @@
+cuestionarios 07 y 08 avisa en salck cuando publique
+del 28 al 37 todos
+
+CENTRALITA->
+private float CalcularGanancia(Llamada.TipoLlamada tipo)
+me quede ahi

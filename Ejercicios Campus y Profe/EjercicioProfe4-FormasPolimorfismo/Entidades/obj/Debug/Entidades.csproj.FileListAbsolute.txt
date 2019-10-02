@@ -1,0 +1,6 @@
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\Entidades\bin\Debug\Entidades.dll
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\Entidades\bin\Debug\Entidades.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\Entidades\obj\Debug\Entidades.dll
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\Entidades\obj\Debug\Entidades.pdb

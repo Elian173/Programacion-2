@@ -1,0 +1,2 @@
+constructores estaticos se ejecutan primero y solo una vez
+

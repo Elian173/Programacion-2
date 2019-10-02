@@ -1,0 +1,14 @@
+E:\prog2\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.csprojAssemblyReference.cache
+E:\prog2\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.csproj.CoreCompileInputs.cache
+E:\prog2\ej2\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.exe.config
+E:\prog2\ej2\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.exe
+E:\prog2\ej2\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.pdb
+E:\prog2\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.exe
+E:\prog2\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.pdb
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\ej2\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.exe.config
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\ej2\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\ej2\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.pdb
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\ej2\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.pdb

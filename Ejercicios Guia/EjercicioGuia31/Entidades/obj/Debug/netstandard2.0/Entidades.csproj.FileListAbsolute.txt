@@ -1,0 +1,9 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia3\Ejercicio31FIX\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

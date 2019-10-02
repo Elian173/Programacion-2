@@ -1,0 +1,123 @@
+C:\Users\Elian\Desktop\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+C:\Users\Elian\Desktop\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+C:\Users\Elian\Desktop\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+C:\Users\Elian\Desktop\TrabajoPractico1\bin\Debug\Entidades.dll
+C:\Users\Elian\Desktop\TrabajoPractico1\bin\Debug\Entidades.pdb
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\TrabajoPractico1.FormCalculadora.resources
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+C:\Users\Elian\Desktop\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\TrabajoPractico1.exe.config
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\TrabajoPractico1.exe
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\TrabajoPractico1.pdb
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\netstandard.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.AppContext.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Collections.Concurrent.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Collections.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Collections.NonGeneric.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Collections.Specialized.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.ComponentModel.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Console.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Data.Common.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.Debug.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.Process.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.Tools.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Drawing.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Dynamic.Runtime.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Globalization.Calendars.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Globalization.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Globalization.Extensions.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.Compression.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.FileSystem.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.Pipes.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Linq.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Linq.Expressions.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Linq.Parallel.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Linq.Queryable.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.Http.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.NameResolution.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.NetworkInformation.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.Ping.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.Requests.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.Security.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.Sockets.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Net.WebSockets.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.ObjectModel.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Reflection.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Reflection.Extensions.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Reflection.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Resources.Reader.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Resources.ResourceManager.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Resources.Writer.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.Extensions.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.Handles.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.InteropServices.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.Numerics.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.Claims.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.Principal.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Security.SecureString.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Text.Encoding.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Text.RegularExpressions.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Threading.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Threading.Overlapped.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Threading.Tasks.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Threading.Thread.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Threading.ThreadPool.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Threading.Timer.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.ValueTuple.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Xml.XDocument.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Xml.XmlDocument.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Xml.XPath.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\Entidades.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\bin\Debug\Entidades.pdb
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\TrabajoPractico1.exe.config
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\TrabajoPractico1.FormCalculadora.resources
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\MiCalculadora.csproj.CopyComplete
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\TrabajoPractico1.exe
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\obj\Debug\TrabajoPractico1.pdb

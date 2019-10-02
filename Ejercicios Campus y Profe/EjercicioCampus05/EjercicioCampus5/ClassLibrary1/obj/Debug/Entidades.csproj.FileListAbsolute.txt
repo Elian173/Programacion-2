@@ -1,0 +1,6 @@
+E:\Programacion II\otro\Ejercicio clase 05 campus\EjercicioCampus5\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Programacion II\otro\Ejercicio clase 05 campus\EjercicioCampus5\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Programacion II\otro\Ejercicio clase 05 campus\EjercicioCampus5\ClassLibrary1\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Programacion II\otro\Ejercicio clase 05 campus\EjercicioCampus5\ClassLibrary1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Programacion II\otro\Ejercicio clase 05 campus\EjercicioCampus5\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Programacion II\otro\Ejercicio clase 05 campus\EjercicioCampus5\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

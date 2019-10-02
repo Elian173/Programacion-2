@@ -1,0 +1,12 @@
+E:\prog2\EjercicioGuia10\EjercicioGuia10\bin\Debug\EjercicioGuia10.exe.config
+E:\prog2\EjercicioGuia10\EjercicioGuia10\bin\Debug\EjercicioGuia10.exe
+E:\prog2\EjercicioGuia10\EjercicioGuia10\bin\Debug\EjercicioGuia10.pdb
+E:\prog2\EjercicioGuia10\EjercicioGuia10\obj\Debug\EjercicioGuia10.csproj.CoreCompileInputs.cache
+E:\prog2\EjercicioGuia10\EjercicioGuia10\obj\Debug\EjercicioGuia10.exe
+E:\prog2\EjercicioGuia10\EjercicioGuia10\obj\Debug\EjercicioGuia10.pdb
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia10\EjercicioGuia10\bin\Debug\EjercicioGuia10.exe.config
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia10\EjercicioGuia10\bin\Debug\EjercicioGuia10.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia10\EjercicioGuia10\bin\Debug\EjercicioGuia10.pdb
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia10\EjercicioGuia10\obj\Debug\EjercicioGuia10.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia10\EjercicioGuia10\obj\Debug\EjercicioGuia10.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia10\EjercicioGuia10\obj\Debug\EjercicioGuia10.pdb

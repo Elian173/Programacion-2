@@ -1,0 +1,10 @@
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\bin\Debug\fomrs.exe.config
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\bin\Debug\fomrs.exe
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\bin\Debug\fomrs.pdb
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\obj\Debug\fomrs.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\obj\Debug\fomrs.woow.resources
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\obj\Debug\fomrs.Properties.Resources.resources
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\obj\Debug\fomrs.csproj.GenerateResource.cache
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\obj\Debug\fomrs.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\obj\Debug\fomrs.exe
+E:\Programacion II\Ejercicios Guia\fomrs\fomrs\obj\Debug\fomrs.pdb

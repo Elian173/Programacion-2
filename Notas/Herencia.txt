@@ -1,0 +1,13 @@
+Se hereda todo menos constructores.
+metodos privados se heredan , pero no se pueden usar desde la clase derivada.
+metodos protected se hereda , y se pueden usar
+
+SELLADAS ->
+public sealed class Algo{}
+
+sealed -> No se puede heredar de esa clase.
+
+Constructores ->
+" Base " para llamar a constructores de clases padres. tipo el this
+
+constructor : base ("")

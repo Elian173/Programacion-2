@@ -1,0 +1,7 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia33FIX\EjercicioGuia33FIX\bin\Debug\EjercicioGuia33FIX.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia33FIX\EjercicioGuia33FIX\bin\Debug\EjercicioGuia33FIX.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia33FIX\EjercicioGuia33FIX\bin\Debug\EjercicioGuia33FIX.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia33FIX\EjercicioGuia33FIX\obj\Debug\EjercicioGuia33FIX.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia33FIX\EjercicioGuia33FIX\obj\Debug\EjercicioGuia33FIX.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia33FIX\EjercicioGuia33FIX\obj\Debug\EjercicioGuia33FIX.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia33FIX\EjercicioGuia33FIX\obj\Debug\EjercicioGuia33FIX.pdb

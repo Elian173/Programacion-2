@@ -1,0 +1,13 @@
+E:\prog2\EjercicioGuia9\EjercicioGuia9\bin\Debug\EjercicioGuia9.exe.config
+E:\prog2\EjercicioGuia9\EjercicioGuia9\bin\Debug\EjercicioGuia9.exe
+E:\prog2\EjercicioGuia9\EjercicioGuia9\bin\Debug\EjercicioGuia9.pdb
+E:\prog2\EjercicioGuia9\EjercicioGuia9\obj\Debug\EjercicioGuia9.csproj.CoreCompileInputs.cache
+E:\prog2\EjercicioGuia9\EjercicioGuia9\obj\Debug\EjercicioGuia9.exe
+E:\prog2\EjercicioGuia9\EjercicioGuia9\obj\Debug\EjercicioGuia9.pdb
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia9\EjercicioGuia9\bin\Debug\EjercicioGuia9.exe.config
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia9\EjercicioGuia9\bin\Debug\EjercicioGuia9.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia9\EjercicioGuia9\bin\Debug\EjercicioGuia9.pdb
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia9\EjercicioGuia9\obj\Debug\EjercicioGuia9.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia9\EjercicioGuia9\obj\Debug\EjercicioGuia9.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia9\EjercicioGuia9\obj\Debug\EjercicioGuia9.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia9\EjercicioGuia9\obj\Debug\EjercicioGuia9.pdb

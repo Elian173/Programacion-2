@@ -1,0 +1,96 @@
+PROPIEDADES->
+
+en general son publicas.
+son metodos que usamos para
+elegir que datos exponer
+
+Metodos->
+getters y setters.
+
+
+private int totalGoles;
+
+public int TotalGoles
+{
+get
+{
+return totalGoles;
+}
+set
+{
+this.totalGoles = value;
+}
+}
+
+get->para leer esa prop.
+int algo = objeto.loquetengo;
+se usa implicitamente el get
+
+
+set->para guardar en esa
+int algo;
+objeto.loquetengo = 2;
+se usa implicitamente el set.
+
+value solo para el set, y seria el 2 en este caso.
+
+
+puedo poner SOLO get,
+SOLO set,
+o las 2 .
+
+
+se puede hacer private get y el set public x ej.
+
+
+****Enumerados*****
+
+public enum DiasDeLaSemana
+{
+Domingo, //1
+Lunes,//2
+Martes,//3
+Miercoles,
+Jueves,
+Viernes,
+Sabado
+}
+
+cada constante tiene guardado
+un entero
+
+incrementa en base a la anterior
+
+si hago miercoles = 6 queda
+
+public enum DiasDeLaSemana
+{
+Domingo, //1
+Lunes,//2
+Martes,//3
+Miercoles,//6
+Jueves,//7
+Viernes,//8
+Sabado//9
+}
+
+se accede ->
+
+DiasDeLaSemana dia = DiasDeLaSemana.Lunes;
+int i = (int) DiasDeLaSemana.Lunes;
+Console.WriteLine(dia); // Mostrará "Lunes"
+Console.WriteLine(i); // Mostrará 1
+
+
+
+ejemplo
+DialogResult.ENUMERADO.
+y podes comparar
+dialogresult=messagebox.show/("";"",MesaggeButton.retry);
+
+switch(dialogresult){
+
+
+	TODO
+
+}

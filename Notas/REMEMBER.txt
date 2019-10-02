@@ -1,0 +1,45 @@
+ver colecciones
+listas
+arrays
+
+VER ENUMERADOS.
+
+Cuestionarios 6 y 7 .
+Ejercicios de la guia 20 y 23 , 28 , 29 o 30.
+TP 1  , se entrega el lunes. 
+
+
+Colecciones genericas = Lista Pila Cola Diccionario Lista ordenada
+No Genericas = pilas colas no genericas,  arraylist.
+
+
+*****
+en un ej de consoloa crear una lista con 5 nros aleatorios 
+Recorres y mostrar en una misma lineas los nomeros en la lista
+Ordenarlos de forma descente 
+Recorrer y mostrar el contenido de la lista
+ordenada en una misma lista
+
+hacer todos metodos privados 
+y estaticos porque es el main
+****
+
+List < >   // List < T > // List < Int > nombre ;
+Instanciar = nombre = new List< int > () ;
+
+para agregar->
+add ( T ); 
+
+para ordenar.>
+Sort ( ----) ;
+//Por defecto ordena de forma ascendente
+
+// Recibe un puntero a un metodo , que compara y devuelve -1 , 0 o 1 .
+
+Si recibe -1 -> es un predescesor (va antes).
+Si recibe 0 -> es igual.
+Si recibe 1 -> es un sucesor , es el que viene despues.
+
+hay crear un metodo de comparacion -> que reciba 2 parametros a evaluar , 
+en este caso ints  , y va a devolver un int que le indique al sort como
+ordenar

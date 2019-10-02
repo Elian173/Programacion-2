@@ -1,0 +1,14 @@
+E:\prog2\EjercicioGuia5\EjercicioGuia5\bin\Debug\EjercicioGuia5.exe.config
+E:\prog2\EjercicioGuia5\EjercicioGuia5\bin\Debug\EjercicioGuia5.exe
+E:\prog2\EjercicioGuia5\EjercicioGuia5\bin\Debug\EjercicioGuia5.pdb
+E:\prog2\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.csproj.CoreCompileInputs.cache
+E:\prog2\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.exe
+E:\prog2\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.pdb
+E:\prog2\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia5\EjercicioGuia5\bin\Debug\EjercicioGuia5.exe.config
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia5\EjercicioGuia5\bin\Debug\EjercicioGuia5.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia5\EjercicioGuia5\bin\Debug\EjercicioGuia5.pdb
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.exe
+C:\Users\Elian\Desktop\Programacion II\Ejercicios Guia\EjercicioGuia5\EjercicioGuia5\obj\Debug\EjercicioGuia5.pdb

@@ -1,0 +1,14 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16\EjercicioGuia16\bin\Debug\EjercicioGuia16.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16\EjercicioGuia16\bin\Debug\EjercicioGuia16.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16\EjercicioGuia16\bin\Debug\EjercicioGuia16.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16\EjercicioGuia16\obj\Debug\EjercicioGuia16.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16\EjercicioGuia16\obj\Debug\EjercicioGuia16.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16\EjercicioGuia16\obj\Debug\EjercicioGuia16.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16\EjercicioGuia16\obj\Debug\EjercicioGuia16.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16SV\EjercicioGuia16\bin\Debug\EjercicioGuia16.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16SV\EjercicioGuia16\bin\Debug\EjercicioGuia16.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16SV\EjercicioGuia16\bin\Debug\EjercicioGuia16.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16SV\EjercicioGuia16\obj\Debug\EjercicioGuia16.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16SV\EjercicioGuia16\obj\Debug\EjercicioGuia16.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16SV\EjercicioGuia16\obj\Debug\EjercicioGuia16.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia16SV\EjercicioGuia16\obj\Debug\EjercicioGuia16.pdb

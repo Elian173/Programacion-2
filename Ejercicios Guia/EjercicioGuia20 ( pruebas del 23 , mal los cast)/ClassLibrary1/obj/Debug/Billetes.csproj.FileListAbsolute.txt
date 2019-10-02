@@ -1,0 +1,6 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\ClassLibrary1\obj\Debug\Billetes.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\ClassLibrary1\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

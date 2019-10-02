@@ -1,0 +1,90 @@
+Crear una lista, una cola y una pila . 
+Cargar la lista con 5 numeros random . 
+Recorrer y mostrar en una misma linea los numeos en la lista.
+Al mismo tienpo cargar los numeros de la pila.
+Recorrer la pila, mostrar en una misma linea el contenido y
+al mimsmo tiempo cargar cada elemento devuelto en la cola.
+Recorrer la cola , mostrar en una misma linea el contenido.
+
+Stack<int>;
+
+Push();
+Enqueue();
+
+las colas las pilas los diccionarios , por si solos no se ordenan
+hay una biblioteca que se llama link.
+primero ToList.
+
+
+ List<int> lista = new List<int>();   []
+ Stack<int> pila = new Stack<int> (); // para leer pop (lo agarra y Elimina)  y pick (Lo agarra y lo deja)
+ Queue<int> cola = new Queue<int>(); // enqueue para ingresar dato y dequeue es como el pop pero FIFO ( first in first out).
+
+
+//using System.Collections;
+
+*****GENERICAS ********* 
+
+//LISTAS
+
+// Colas
+Queue queue = new Queue();
+queue.Enqueue("A");
+queue.Enqueue("B");
+string s = queue.Dequeue().ToString();
+
+
+// Pilas
+Stack stack = new Stack();
+stack.Push(1);
+stack.Push(2);
+int i = (int)stack.Pop();
+
+**************************
+
+
+Ejercicio 3 
+****diccionarios*****
+
+
+Crear un diccionario , Cargarlo con 5 dni como claves (String);
+y nombre y apellido de una persona
+comovalor (string)
+Recorrer y mostrar en cada clave almacenada junto con su valor.
+
+   i		u      
+<string   ,  string >     ( Aca cualquier tipo.No hace fta q sean iguales.)
+Clave	  l	valor
+"111111"	"Juan perez"
+"222222"	"          "
+"333333"	"asas"
+"444444"	"Juan perez"
+
+
+___________________________
+KeyValuePair<String, String> pair;
+
+pair.Key();
+pair.Value();
+
+
+midiccionario [  key  ] -> devuelve el valor.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+E:\prog2\EjercicioGuia7\EjercicioGuia7\bin\Debug\EjercicioGuia7.exe.config
+E:\prog2\EjercicioGuia7\EjercicioGuia7\bin\Debug\EjercicioGuia7.exe
+E:\prog2\EjercicioGuia7\EjercicioGuia7\bin\Debug\EjercicioGuia7.pdb
+E:\prog2\EjercicioGuia7\EjercicioGuia7\obj\Debug\EjercicioGuia7.csproj.CoreCompileInputs.cache
+E:\prog2\EjercicioGuia7\EjercicioGuia7\obj\Debug\EjercicioGuia7.exe
+E:\prog2\EjercicioGuia7\EjercicioGuia7\obj\Debug\EjercicioGuia7.pdb
+E:\prog2\EjercicioGuia7\EjercicioGuia7\obj\Debug\EjercicioGuia7.csprojAssemblyReference.cache

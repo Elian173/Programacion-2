@@ -1,0 +1,18 @@
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Elian\Desktop\TrabajoPractico1\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+F:\Programacion II\otro\Elian_Rojas_TP1_2C\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

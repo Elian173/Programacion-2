@@ -1,0 +1,4 @@
+Sv ->Sin Validar
+St ->Sin terminar
+Sh -> Sin Hacer
+Nada -> Ok probablemente

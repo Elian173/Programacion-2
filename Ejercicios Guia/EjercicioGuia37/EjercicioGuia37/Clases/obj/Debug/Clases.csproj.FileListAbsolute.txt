@@ -1,0 +1,6 @@
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.csprojAssemblyReference.cache

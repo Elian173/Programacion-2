@@ -1,0 +1,10 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\bin\Debug\EjercicioGuia20a.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\bin\Debug\EjercicioGuia20a.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\bin\Debug\EjercicioGuia20a.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\bin\Debug\ClassLibrary1.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\bin\Debug\ClassLibrary1.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\obj\Debug\EjercicioGuia20a.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\obj\Debug\EjercicioGuia20a.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\obj\Debug\EjercicioGuia20a.csproj.CopyComplete
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\obj\Debug\EjercicioGuia20a.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia20a\EjercicioGuia20a\obj\Debug\EjercicioGuia20a.pdb

@@ -1,0 +1,6 @@
+E:\prog2\EjercicioGuia2\EjercicioGuia2\bin\Debug\EjercicioGuia2.exe.config
+E:\prog2\EjercicioGuia2\EjercicioGuia2\bin\Debug\EjercicioGuia2.exe
+E:\prog2\EjercicioGuia2\EjercicioGuia2\bin\Debug\EjercicioGuia2.pdb
+E:\prog2\EjercicioGuia2\EjercicioGuia2\obj\Debug\EjercicioGuia2.csproj.CoreCompileInputs.cache
+E:\prog2\EjercicioGuia2\EjercicioGuia2\obj\Debug\EjercicioGuia2.exe
+E:\prog2\EjercicioGuia2\EjercicioGuia2\obj\Debug\EjercicioGuia2.pdb

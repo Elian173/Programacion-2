@@ -1,0 +1,10 @@
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\bin\Debug\EjercicioProf4-FormasPolimorfismo.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\bin\Debug\EjercicioProf4-FormasPolimorfismo.exe
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\bin\Debug\EjercicioProf4-FormasPolimorfismo.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\bin\Debug\Entidades.dll
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\bin\Debug\Entidades.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\obj\Debug\EjercicioProf4-FormasPolimorfismo.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\obj\Debug\EjercicioProf4-FormasPolimorfismo.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\obj\Debug\EjercicioProf4-FormasPolimorfismo.csproj.CopyComplete
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\obj\Debug\EjercicioProf4-FormasPolimorfismo.exe
+E:\Programacion II\Ejercicios Guia\EjercicioProf4-FormasPolimorfismo\EjercicioProf4-FormasPolimorfismo\obj\Debug\EjercicioProf4-FormasPolimorfismo.pdb

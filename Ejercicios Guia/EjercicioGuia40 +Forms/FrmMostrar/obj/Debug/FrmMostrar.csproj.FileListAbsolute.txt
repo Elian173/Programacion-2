@@ -1,0 +1,14 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\bin\Debug\FrmMostrar.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\bin\Debug\FrmMostrar.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\bin\Debug\FrmMostrar.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.Properties.Resources.resources
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.csproj.GenerateResource.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.FrmMostrar.resources
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.csproj.CopyComplete
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\FrmMostrar\obj\Debug\FrmMostrar.FrmFacturacion.resources
