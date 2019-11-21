@@ -1,0 +1,6 @@
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Entidades\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Entidades\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Entidades\obj\Debug\Entidades.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Entidades\obj\Debug\Entidades.pdb

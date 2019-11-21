@@ -1,0 +1,4 @@
+E:\ElianCascara\ObjetoPrueba\bin\Debug\ObjetoPrueba.dll
+E:\ElianCascara\ObjetoPrueba\bin\Debug\ObjetoPrueba.pdb
+E:\ElianCascara\ObjetoPrueba\obj\Debug\ObjetoPrueba.dll
+E:\ElianCascara\ObjetoPrueba\obj\Debug\ObjetoPrueba.pdb

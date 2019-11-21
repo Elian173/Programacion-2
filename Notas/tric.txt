@@ -1,0 +1,27 @@
+propfull tab tab
+region tab tab
+ctor tab tab constructor.
+
+pararme en un metodo y poner f12 asi veo que hace
+f5 compila
+cntrl H reemplaza codigo
+
+cuando slae foquito , cntrl punto
+
+cntrl shift space aparece el intellisence
+
+shift f12 todas las referencias a un metodo.
+
+
+estrellita Protected
+candado privado
+corazon Internal
+3 rayitas constante
+((SNIPPETS)))
+flechita para abajo metodo extension
+
+objListOrder.Sort((x, y) => x.OrderDate.CompareTo(y.OrderDate));
+
+si a un tipo que no acepta null  lo hago tipo int? , o datetime? ese tipo va a aceptar null.
+
+los using tienen que implementar la interfaz IDisposable.

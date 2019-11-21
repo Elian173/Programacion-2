@@ -1,0 +1,5 @@
+E:\ElianCascara\Excepciones\bin\Debug\Excepciones.dll
+E:\ElianCascara\Excepciones\bin\Debug\Excepciones.pdb
+E:\ElianCascara\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+E:\ElianCascara\Excepciones\obj\Debug\Excepciones.dll
+E:\ElianCascara\Excepciones\obj\Debug\Excepciones.pdb

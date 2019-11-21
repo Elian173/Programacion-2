@@ -1,0 +1,9 @@
+E:\ElianCascara\HilosYAdaptacionAForms\bin\Debug\HilosYAdaptacionAForms.exe.config
+E:\ElianCascara\HilosYAdaptacionAForms\bin\Debug\HilosYAdaptacionAForms.exe
+E:\ElianCascara\HilosYAdaptacionAForms\bin\Debug\HilosYAdaptacionAForms.pdb
+E:\ElianCascara\HilosYAdaptacionAForms\obj\Debug\HiloFormsNOPARAM.csprojAssemblyReference.cache
+E:\ElianCascara\HilosYAdaptacionAForms\obj\Debug\HilosYAdaptacionAForms.Form1.resources
+E:\ElianCascara\HilosYAdaptacionAForms\obj\Debug\HilosYAdaptacionAForms.Properties.Resources.resources
+E:\ElianCascara\HilosYAdaptacionAForms\obj\Debug\HiloFormsNOPARAM.csproj.GenerateResource.cache
+E:\ElianCascara\HilosYAdaptacionAForms\obj\Debug\HilosYAdaptacionAForms.exe
+E:\ElianCascara\HilosYAdaptacionAForms\obj\Debug\HilosYAdaptacionAForms.pdb

@@ -1,0 +1,12 @@
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

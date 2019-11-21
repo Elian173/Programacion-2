@@ -1,0 +1,10 @@
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\bin\Debug\EjercicioMetodosExtension.exe.config
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\bin\Debug\EjercicioMetodosExtension.exe
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\bin\Debug\EjercicioMetodosExtension.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\obj\Debug\EjercicioMetodosExtension.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\obj\Debug\EjercicioMetodosExtension.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\obj\Debug\EjercicioMetodosExtension.csproj.CopyComplete
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\obj\Debug\EjercicioMetodosExtension.exe
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\EjercicioMetodosExtension\EjercicioMetodosExtension\obj\Debug\EjercicioMetodosExtension.pdb

@@ -1,0 +1,10 @@
+THREAD hilo = new Thread (new threadStart(METODOAEJECUTAR));  este no recibe nada METODOAEJECUTAR tampoco puede recibir ni devolver.
+new Thread (new ParameterizedThreadStart(METODOAEJECUTAR)); METODOAEJECUTAR recibe un parametro.
+
+tipo puntero a funcion
+
+iniciar hilo -> hilo.Start();
+termina cuando se termine de ejecutar el metodo, o forzadamente con
+hilo.Abort();
+
+evento null , nada asociado.

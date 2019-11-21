@@ -1,0 +1,5 @@
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Entidades\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Entidades\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.pdb

@@ -1,2 +1,0 @@
-Singleton (es un patron para escribir codigo)
-UserControl ( otr tipo de control de un formulrio)

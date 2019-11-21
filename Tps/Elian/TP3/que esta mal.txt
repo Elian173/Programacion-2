@@ -1,0 +1,14 @@
+test unitario no valida el tipo de excepcion
+.
+
+
+en donde puse if(listaDealgo.contains(otra cosa) , no estoy validando nada,
+
+deberia ser foreach ( x algo en b.lista ) 
+if
+{
+algo == otracosa,return true
+}
+porque el == esta sobreescrito.
+
+si quisiera haber usado el contains, deberia haber sobreescrito el gethash y equals

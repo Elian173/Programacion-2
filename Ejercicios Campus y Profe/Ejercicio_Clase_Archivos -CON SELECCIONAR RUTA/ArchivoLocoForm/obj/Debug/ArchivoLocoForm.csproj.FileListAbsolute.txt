@@ -1,0 +1,46 @@
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe.config
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.pdb
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.FormLoco.resources
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.Properties.Resources.resources
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.GenerateResource.cache
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.exe
+D:\VisualStudio\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.pdb
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe.config
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.pdb
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.FormLoco.resources
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.Properties.Resources.resources
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.exe
+C:\Users\alumno\Desktop\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.pdb
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe.config
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.pdb
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.FormLoco.resources
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.Properties.Resources.resources
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.GenerateResource.cache
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.exe
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.pdb
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\BibliotecaClases.dll
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\bin\Debug\BibliotecaClases.pdb
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.CopyComplete
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe.config
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.exe
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\bin\Debug\ArchivoLocoForm.pdb
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\bin\Debug\BibliotecaClases.dll
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\bin\Debug\BibliotecaClases.pdb
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csprojAssemblyReference.cache
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.FormLoco.resources
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.Properties.Resources.resources
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.GenerateResource.cache
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.CoreCompileInputs.cache
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.csproj.CopyComplete
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.exe
+F:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos -CON SELECCIONAR RUTA\ArchivoLocoForm\obj\Debug\ArchivoLocoForm.pdb

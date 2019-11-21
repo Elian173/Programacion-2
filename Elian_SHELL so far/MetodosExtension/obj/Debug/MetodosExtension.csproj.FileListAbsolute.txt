@@ -1,0 +1,5 @@
+E:\ElianCascara\MetodosExtension\bin\Debug\MetodosExtension.dll
+E:\ElianCascara\MetodosExtension\bin\Debug\MetodosExtension.pdb
+E:\ElianCascara\MetodosExtension\obj\Debug\MetodosExtension.csprojAssemblyReference.cache
+E:\ElianCascara\MetodosExtension\obj\Debug\MetodosExtension.dll
+E:\ElianCascara\MetodosExtension\obj\Debug\MetodosExtension.pdb

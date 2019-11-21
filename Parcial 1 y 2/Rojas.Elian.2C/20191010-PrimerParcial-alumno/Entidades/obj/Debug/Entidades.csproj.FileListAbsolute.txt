@@ -1,0 +1,6 @@
+E:\Programacion II\Rojas.Elian.2C\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.dll
+E:\Programacion II\Rojas.Elian.2C\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.pdb
+E:\Programacion II\Rojas.Elian.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Programacion II\Rojas.Elian.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
+E:\Programacion II\Rojas.Elian.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb
+E:\Programacion II\Rojas.Elian.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

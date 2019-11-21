@@ -1,0 +1,7 @@
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.exe.config
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.exe
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.exe
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.pdb

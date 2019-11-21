@@ -1,0 +1,9 @@
+E:\ElianCascara\Eventos\bin\Debug\Eventos.exe.config
+E:\ElianCascara\Eventos\bin\Debug\Eventos.exe
+E:\ElianCascara\Eventos\bin\Debug\Eventos.pdb
+E:\ElianCascara\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+E:\ElianCascara\Eventos\obj\Debug\Eventos.Form1.resources
+E:\ElianCascara\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+E:\ElianCascara\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+E:\ElianCascara\Eventos\obj\Debug\Eventos.exe
+E:\ElianCascara\Eventos\obj\Debug\Eventos.pdb

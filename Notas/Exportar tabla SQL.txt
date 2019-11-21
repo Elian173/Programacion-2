@@ -1,0 +1,11 @@
+Click derecho en la tabla -> tareas -> Exportar datos./importar datos.
+siguiente , origen de datos , esa. usar autenticacon windows. BDVET, destino =  lo dejo ,servidor -> ./SQLEXPRESS
+ siguiente , copiar los datos de una o varias, selecciono las tablas , siguiente,  finalizar.
+
+TODO ESO DE ARRIBA NO .
+
+
+COPIA DE SEGURIDAD , ACEPTAR -> Y LA CREO EN ALGUN LADO JEJEJ
+
+click derecho restaurar base de datos.
+origen , elijo el archivo.

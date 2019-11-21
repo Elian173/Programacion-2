@@ -1,0 +1,9 @@
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete

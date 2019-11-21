@@ -1,0 +1,15 @@
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria2\bin\Debug\SerializacionBinaria2.exe
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria2\bin\Debug\SerializacionBinaria2.pdb
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria2\obj\Debug\ResolveAssemblyReference.cache
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria2\obj\Debug\SerializacionBinaria2.exe
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria2\obj\Debug\SerializacionBinaria2.pdb
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria2\bin\Debug\SerializacionBinaria2.exe
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria2\bin\Debug\SerializacionBinaria2.pdb
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria2\obj\Debug\ResolveAssemblyReference.cache
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria2\obj\Debug\SerializacionBinaria2.exe
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria2\obj\Debug\SerializacionBinaria2.pdb
+D:\Descargas\C\Programacion II(diapositivas)\Prog 2 MARTES\PASAR MARTES\Serializacion\SerializacionBinaria2\bin\Debug\SerializacionBinaria2.exe
+D:\Descargas\C\Programacion II(diapositivas)\Prog 2 MARTES\PASAR MARTES\Serializacion\SerializacionBinaria2\bin\Debug\SerializacionBinaria2.pdb
+D:\Descargas\C\Programacion II(diapositivas)\Prog 2 MARTES\PASAR MARTES\Serializacion\SerializacionBinaria2\obj\Debug\ArchivoDeTexto02.csproj.CoreCompileInputs.cache
+D:\Descargas\C\Programacion II(diapositivas)\Prog 2 MARTES\PASAR MARTES\Serializacion\SerializacionBinaria2\obj\Debug\SerializacionBinaria2.exe
+D:\Descargas\C\Programacion II(diapositivas)\Prog 2 MARTES\PASAR MARTES\Serializacion\SerializacionBinaria2\obj\Debug\SerializacionBinaria2.pdb

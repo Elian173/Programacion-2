@@ -1,0 +1,6 @@
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+E:\Programacion II\Ejercicios Campus y Profe\Ejercicio_Clase_Archivos\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

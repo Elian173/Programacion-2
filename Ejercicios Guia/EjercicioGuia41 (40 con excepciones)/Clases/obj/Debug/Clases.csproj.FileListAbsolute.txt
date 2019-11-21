@@ -1,0 +1,30 @@
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\Ej37FIX\EjercicioGuia37\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40\Clases\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40\Clases\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40\Clases\obj\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40\Clases\obj\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\Clases\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\Clases\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\Clases\obj\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40_FORMS\Clases\obj\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40 +Forms\Clases\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40 +Forms\Clases\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40 +Forms\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40 +Forms\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40 +Forms\Clases\obj\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia40 +Forms\Clases\obj\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia41 (40 con excepciones)\Clases\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia41 (40 con excepciones)\Clases\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia41 (40 con excepciones)\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia41 (40 con excepciones)\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia41 (40 con excepciones)\Clases\obj\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia41 (40 con excepciones)\Clases\obj\Debug\Clases.pdb

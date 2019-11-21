@@ -1,0 +1,91 @@
+bases de datos -> click dereco nueva base de dattos
+voy a la base tablas nueva tabla. creo cliente nmbre apellido dni fecha nac id
+
+id .> establecer clave principal. -> especificacion de identidad si
+
+primary key -> identificador
+foreing -> apunta a otra tabla
+foreing click derecho relaciones agregar especificaciones tbalas y columnas -> externa.Cliente
+primaria->
+
+voy a la fk , relaciones -> hago la relacion nose como
+
+
+herramientas - opciones - diseñadores - diseñadores de tablas y bases datos  - impedir guardar cambios que requieras
+volver a crear tablas LO SACO.
+
+Nueva consulta -> 
+
+INSERT INTO CLIENTES (nombre,apellido,dni) VALUES ('JUAN','PEREZ','12345678');
+
+SELECT * FROM CLIENTES ;
+
+UPDATE MODIFICA 
+
+DELETE FROM TABLA -> BORRA TODO si no pongo where.
+
+
+* -> SIGNIFICA TODAS LAS TABLAS .
+
+ = es igual
+<> es distinto
+
+&& AND
+ll OR
+
+
+
+
+INSERT INTO CLIENTES (nombre,apellido,dni) VALUES ('JUAN','PEREZ','12345678');
+INSERT INTO CLIENTES (nombre,apellido,dni,Fecha_Nacimiento) VALUES ('JORGE','SOSA','12345678','2000-02-10');
+INSERT INTO CLIENTES (nombre,apellido,dni,Fecha_Nacimiento) VALUES ('PEPE','PEREYRA','12345678','1000-01-20');
+
+DELETE FROM CLIENTES ;
+
+SELECT * FROM CLIENTES ;
+
+SELECT * FROM CLIENTES WHERE Id > 2 ;
+
+UPDATE CLIENTES SET Nombre = 'GOMEZ' , Apellido = 'Carla' WHERE Id = 18 ;
+
+
+CON EL F5 EJECUTO EL CODIGO NO CON EL ENTER.
+
+
+EVITAR QUE ME MANDEN CUALQUIER COMANDO A LA WEA.
+QUERYS PARAMETRIZADAS. 
+SQLCOMMNAD  COMANDO
+COMANDO.PARAMMETERS.ADDWITHVALUE(IDENFICIADOR PARA PARAM, VALOR QUE ASOCIAR)
+
+NONQUERY ES PARA INSERT, UPDATE Y DELETE. PARA NADA MAS
+
+ejercicios 62 y 61.
+el 60 No darle bola.
+
+
+72 , 73 hacer
+
+_____________________________________________________________________________________________________________
+
+Inner join ,solo trae las relacionadas (mascotas con humanos).
+Right join trae humanos sin mascotasy humanos con mascotas.
+left join trae mascotas sin humanos y mascotas con humanos.
+
+
+
+
+
+SELECT * FROM Clientes;
+
+INSERT INTO MASCOTAS (nombre , humano) VALUES ('Firulais' , 11);
+INSERT INTO MASCOTAS (nombre , humano) VALUES ('FirulaisDO' , 11);
+
+INSERT INTO MASCOTAS (nombre , humano) VALUES ('bobby' , 8);
+INSERT INTO MASCOTAS (nombre) VALUES ('bobby');
+
+SELECT m.id, m.nombre, m.humano FROM MASCOTAS AS M LEFT JOIN CLIENTES AS C ON m.humano = c.id;
+SELECT m.id, m.nombre, m.humano FROM MASCOTAS AS M INNER JOIN CLIENTES AS C ON m.humano = c.id;
+SELECT m.id, m.nombre, m.humano FROM MASCOTAS AS M RIGHT JOIN CLIENTES AS C ON m.humano = c.id;
+
+
+

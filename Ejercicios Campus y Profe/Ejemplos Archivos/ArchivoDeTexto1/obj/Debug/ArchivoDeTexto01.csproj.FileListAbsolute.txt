@@ -1,0 +1,10 @@
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.exe
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.pdb
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria\bin\Debug\SerializacionBinaria.exe
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria\bin\Debug\SerializacionBinaria.pdb
+D:\Maxi--Octavio\C#\Clase 11\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\ResolveAssemblyReference.cache
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.exe
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\SerializacionBinaria.pdb
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria\bin\Debug\SerializacionBinaria.exe
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria\bin\Debug\SerializacionBinaria.pdb
+F:\Programacion II\Clase 12\Serializacion C#\Serializacion\SerializacionBinaria\obj\Debug\ResolveAssemblyReference.cache

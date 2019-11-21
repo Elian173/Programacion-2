@@ -1,0 +1,7 @@
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia57\EjercicioGuia57\bin\Debug\EjercicioGuia57.exe.config
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia57\EjercicioGuia57\bin\Debug\EjercicioGuia57.exe
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia57\EjercicioGuia57\bin\Debug\EjercicioGuia57.pdb
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia57\EjercicioGuia57\obj\Debug\EjercicioGuia57.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia57\EjercicioGuia57\obj\Debug\EjercicioGuia57.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia57\EjercicioGuia57\obj\Debug\EjercicioGuia57.exe
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia57\EjercicioGuia57\obj\Debug\EjercicioGuia57.pdb

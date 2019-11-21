@@ -1,0 +1,12 @@
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\bin\Debug\Consola.exe.config
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\bin\Debug\Consola.exe
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\bin\Debug\Consola.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\bin\Debug\BaseDeDatos.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\bin\Debug\BaseDeDatos.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\obj\Debug\Consola.csproj.CopyComplete
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\obj\Debug\Consola.exe
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\obj\Debug\Consola.pdb
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II\Ejercicios Campus y Profe\BaseDeDatos\Consola\bin\Debug\Entidades.pdb

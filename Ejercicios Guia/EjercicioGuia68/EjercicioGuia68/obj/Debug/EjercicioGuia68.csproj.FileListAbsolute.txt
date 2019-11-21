@@ -1,0 +1,12 @@
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\bin\Debug\EjercicioGuia68.exe.config
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\bin\Debug\EjercicioGuia68.exe
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\bin\Debug\EjercicioGuia68.pdb
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\bin\Debug\Clases.dll
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\bin\Debug\Clases.pdb
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\obj\Debug\EjercicioGuia68.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\obj\Debug\EjercicioGuia68.FormPersona.resources
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\obj\Debug\EjercicioGuia68.Properties.Resources.resources
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\obj\Debug\EjercicioGuia68.csproj.GenerateResource.cache
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\obj\Debug\EjercicioGuia68.csproj.CopyComplete
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\obj\Debug\EjercicioGuia68.exe
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia68\EjercicioGuia68\obj\Debug\EjercicioGuia68.pdb

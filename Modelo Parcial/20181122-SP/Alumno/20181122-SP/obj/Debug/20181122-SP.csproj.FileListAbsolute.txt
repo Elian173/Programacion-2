@@ -1,0 +1,17 @@
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\20181122-SP.exe.config
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\20181122-SP.exe
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\20181122-SP.pdb
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\Archivos.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\VistaPatentes.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\Archivos.pdb
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\VistaPatentes.pdb
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\bin\Debug\VistaPatentes.dll.config
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\obj\Debug\20181122-SP.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\obj\Debug\_20181122_SP.FrmPpal.resources
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\obj\Debug\_20181122_SP.Properties.Resources.resources
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\obj\Debug\20181122-SP.csproj.GenerateResource.cache
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\obj\Debug\20181122-SP.csproj.CopyComplete
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\obj\Debug\20181122-SP.exe
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\20181122-SP\obj\Debug\20181122-SP.pdb

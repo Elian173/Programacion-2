@@ -1,0 +1,9 @@
+E:\ElianCascara\Forms2\bin\Debug\Forms2.exe.config
+E:\ElianCascara\Forms2\bin\Debug\Forms2.exe
+E:\ElianCascara\Forms2\bin\Debug\Forms2.pdb
+E:\ElianCascara\Forms2\obj\Debug\HilosFormsPARAM.Form1.resources
+E:\ElianCascara\Forms2\obj\Debug\Forms2.Properties.Resources.resources
+E:\ElianCascara\Forms2\obj\Debug\HilosFormsPARAM.csproj.GenerateResource.cache
+E:\ElianCascara\Forms2\obj\Debug\Forms2.exe
+E:\ElianCascara\Forms2\obj\Debug\Forms2.pdb
+E:\ElianCascara\Forms2\obj\Debug\HilosFormsPARAM.csprojAssemblyReference.cache

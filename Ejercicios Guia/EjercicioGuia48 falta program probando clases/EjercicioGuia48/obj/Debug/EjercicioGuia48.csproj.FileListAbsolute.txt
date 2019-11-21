@@ -1,0 +1,6 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia48 falta program probando clases\EjercicioGuia48\bin\Debug\EjercicioGuia48.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia48 falta program probando clases\EjercicioGuia48\bin\Debug\EjercicioGuia48.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia48 falta program probando clases\EjercicioGuia48\obj\Debug\EjercicioGuia48.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia48 falta program probando clases\EjercicioGuia48\obj\Debug\EjercicioGuia48.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia48 falta program probando clases\EjercicioGuia48\obj\Debug\EjercicioGuia48.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia48 falta program probando clases\EjercicioGuia48\obj\Debug\EjercicioGuia48.pdb

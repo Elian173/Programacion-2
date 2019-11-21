@@ -1,0 +1,12 @@
+E:\Programacion II\Ejercicios Campus y Profe\13_Modelo_Primer_Parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+E:\Programacion II\Ejercicios Campus y Profe\13_Modelo_Primer_Parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+E:\Programacion II\Ejercicios Campus y Profe\13_Modelo_Primer_Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Campus y Profe\13_Modelo_Primer_Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+E:\Programacion II\Ejercicios Campus y Profe\13_Modelo_Primer_Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+E:\Programacion II\Ejercicios Campus y Profe\13_Modelo_Primer_Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Campus y Profe\14_Modelo_Primer_Parcial_Recuperatorio\ComiqueriaAppRECUPERATORIO\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+E:\Programacion II\Ejercicios Campus y Profe\14_Modelo_Primer_Parcial_Recuperatorio\ComiqueriaAppRECUPERATORIO\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+E:\Programacion II\Ejercicios Campus y Profe\14_Modelo_Primer_Parcial_Recuperatorio\ComiqueriaAppRECUPERATORIO\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Campus y Profe\14_Modelo_Primer_Parcial_Recuperatorio\ComiqueriaAppRECUPERATORIO\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Campus y Profe\14_Modelo_Primer_Parcial_Recuperatorio\ComiqueriaAppRECUPERATORIO\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+E:\Programacion II\Ejercicios Campus y Profe\14_Modelo_Primer_Parcial_Recuperatorio\ComiqueriaAppRECUPERATORIO\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

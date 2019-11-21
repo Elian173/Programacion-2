@@ -1,0 +1,5 @@
+E:\ElianCascara\EventosPropios\bin\Debug\EventosPropios.dll
+E:\ElianCascara\EventosPropios\bin\Debug\EventosPropios.pdb
+E:\ElianCascara\EventosPropios\obj\Debug\EventosPropios.csprojAssemblyReference.cache
+E:\ElianCascara\EventosPropios\obj\Debug\EventosPropios.dll
+E:\ElianCascara\EventosPropios\obj\Debug\EventosPropios.pdb

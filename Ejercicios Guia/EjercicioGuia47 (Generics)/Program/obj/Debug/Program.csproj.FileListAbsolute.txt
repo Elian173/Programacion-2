@@ -1,0 +1,10 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\bin\Debug\Program.exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\bin\Debug\Program.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\bin\Debug\Program.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\bin\Debug\EjercicioGuia47 (Generics).dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\bin\Debug\EjercicioGuia47 (Generics).pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\obj\Debug\Program.csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\obj\Debug\Program.csproj.CopyComplete
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\obj\Debug\Program.exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\Program\obj\Debug\Program.pdb

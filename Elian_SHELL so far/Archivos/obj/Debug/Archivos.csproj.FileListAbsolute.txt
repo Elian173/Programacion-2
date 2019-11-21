@@ -1,0 +1,5 @@
+E:\ElianCascara\Archivos\bin\Debug\Archivos.dll
+E:\ElianCascara\Archivos\bin\Debug\Archivos.pdb
+E:\ElianCascara\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+E:\ElianCascara\Archivos\obj\Debug\Archivos.dll
+E:\ElianCascara\Archivos\obj\Debug\Archivos.pdb

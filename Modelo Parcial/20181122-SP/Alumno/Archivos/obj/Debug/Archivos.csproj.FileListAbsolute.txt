@@ -1,0 +1,8 @@
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\bin\Debug\Archivos.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\bin\Debug\Archivos.pdb
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.dll
+E:\Facultad\Programacion II\Parciales\Modelo Parcial\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.pdb

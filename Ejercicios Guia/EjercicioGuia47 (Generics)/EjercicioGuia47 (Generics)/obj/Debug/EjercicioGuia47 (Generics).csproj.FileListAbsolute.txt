@@ -1,0 +1,6 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\EjercicioGuia47 (Generics)\bin\Debug\EjercicioGuia47 (Generics).dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\EjercicioGuia47 (Generics)\bin\Debug\EjercicioGuia47 (Generics).pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\EjercicioGuia47 (Generics)\obj\Debug\EjercicioGuia47 (Generics).csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\EjercicioGuia47 (Generics)\obj\Debug\EjercicioGuia47 (Generics).csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\EjercicioGuia47 (Generics)\obj\Debug\EjercicioGuia47 (Generics).dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia47 (Generics)\EjercicioGuia47 (Generics)\obj\Debug\EjercicioGuia47 (Generics).pdb

@@ -1,0 +1,10 @@
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\bin\Debug\EjercicioGuia50 (interfaces).exe.config
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\bin\Debug\EjercicioGuia50 (interfaces).exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\bin\Debug\EjercicioGuia50 (interfaces).pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\bin\Debug\Clases.dll
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\bin\Debug\Clases.pdb
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\obj\Debug\EjercicioGuia50 (interfaces).csprojAssemblyReference.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\obj\Debug\EjercicioGuia50 (interfaces).csproj.CoreCompileInputs.cache
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\obj\Debug\EjercicioGuia50 (interfaces).csproj.CopyComplete
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\obj\Debug\EjercicioGuia50 (interfaces).exe
+E:\Programacion II\Ejercicios Guia\EjercicioGuia50 (interfaces)\EjercicioGuia50 (interfaces)\obj\Debug\EjercicioGuia50 (interfaces).pdb

@@ -1,0 +1,10 @@
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\bin\Debug\EjercicioGuia67.exe.config
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\bin\Debug\EjercicioGuia67.exe
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\bin\Debug\EjercicioGuia67.pdb
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\bin\Debug\Clases.dll
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\bin\Debug\Clases.pdb
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\obj\Debug\EjercicioGuia67.csprojAssemblyReference.cache
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\obj\Debug\EjercicioGuia67.csproj.CoreCompileInputs.cache
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\obj\Debug\EjercicioGuia67.csproj.CopyComplete
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\obj\Debug\EjercicioGuia67.exe
+E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia67\EjercicioGuia67\obj\Debug\EjercicioGuia67.pdb

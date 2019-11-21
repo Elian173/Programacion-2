@@ -1,0 +1,80 @@
+StreamPrinter .> escribir archivos de text
+StreamReader -> leer
+
+USING system.io
+
+StreamWriter (string path)
+Inicializa una nueva instancia de la clase StreamWriter, en un path específico. Si el archivo existe, se sobrescribirá, sino se creará.
+
+StreamWriter (string path, bool append)
+Ídem anterior, si append es true, se agregarán datos al archivo existente. Caso contrario, se sobrescribirá el archivo.
+
+StreamWriter (string path, bool append, Encoding e)
+Ídem anterior, dónde se le puede especificar el tipo de codificación que se utilizará al escribir en el archivo.
+
+
+Write (string value)
+Escribe una cadena en el archivo sin provocar salto de línea.
+
+WriteLine(string value)
+Escribe una cadena en un archivo provocando salto de línea.
+
+Close()
+Cierra el objeto StreamWriter.
+
+___
+
+StreamReader (string path)
+Inicializa una nueva instancia de la clase StreamReader. El path especifica de donde se leerán los datos.
+
+StreamReader (string path, Encoding e)
+Ídem anterior, dónde se le especifica el tipo de codificación que se utilizará para leer el archivo.
+
+Close()
+Cierra el objeto StreamReader.
+
+Read()
+Lee un carácter del stream y avanza carácter a carácter. Retorna un entero.
+
+ReadLine()
+Lee una línea de caracteres del stream y lo retorna como un string.
+
+ReadToEnd()
+Lee todo el stream y lo retorna como una cadena de caracteres.
+
+
+_____
+File.Exists(string path)
+Es true si tiene los permisos necesarios y path contiene el nombre de un archivo existente; de lo contrario, es false.
+También devuelve false si path es null, una ruta de acceso no válida o una cadena de longitud cero.
+Si no tiene permisos suficientes para leer el archivo especificado, no se produce ninguna excepción y el método devuelve false, independientemente de la existencia del path.
+
+File.Copy(string, string):
+Copia un archivo existente en un archivo nuevo. No se permite sobrescribir un archivo del mismo nombre.
+
+File.Delete(string path)
+Elimina el archivo especificado.
+
+
+__
+Directory.Delete(string path)
+Elimina el directorio especificado, siempre y cuando esté vacio.
+
+Directory.Delete(string, boolean):
+Elimina el directorio especificado y, si está indicado, los subdirectorios y archivos que contiene.
+
+Directory.Exists(string):
+Determina si la ruta de acceso dada hace referencia a un directorio existente en el disco.
+
+GetFiles(String):
+Devuelve los nombres de archivo (con sus rutas de acceso) del directorio especificado.
+
+
+__
+Por medio del método de clase GetFolderPath de Environment podemos obtener la dirección de una carpeta:
+Environment.GetFolderPath
+
+A través del enumerado Environment.SpecialFolder podemos acceder a las carpetas del sistema sin conocer su ruta completa:
+Environment.GetFolderPath(Environment.SpecialFolder.Desktop) // retorna el path al escritorio
+Environment.GetFolderPath(Environment.SpecialFolder. MyDocuments) // carpeta de Mis Documentos
+Environment.GetFolderPath(Environment.SpecialFolder. ProgramFiles) // directorio de archivos de programa.
