@@ -13,3 +13,17 @@ E:\Programacion II\Ejercicios Guia\EjercicioGuia44\FrmMostrar\obj\Debug\WindowsF
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\FrmMostrar\obj\Debug\WindowsFormsEj41.csproj.CopyComplete
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\FrmMostrar\obj\Debug\FrmMostrar.exe
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\FrmMostrar\obj\Debug\FrmMostrar.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\bin\Debug\FrmMostrar.exe.config
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\bin\Debug\FrmMostrar.exe
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\bin\Debug\FrmMostrar.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\bin\Debug\Clases.dll
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\bin\Debug\Clases.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\WindowsFormsEj41.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\FrmMostrar.FrmFacturacion.resources
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\FrmMostrar.FrmGenerarLlamada.resources
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\FrmMostrar.FrmMenu.resources
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\FrmMostrar.Properties.Resources.resources
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\WindowsFormsEj41.csproj.GenerateResource.cache
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\WindowsFormsEj41.csproj.CopyComplete
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\FrmMostrar.exe
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\FrmMostrar\obj\Debug\FrmMostrar.pdb

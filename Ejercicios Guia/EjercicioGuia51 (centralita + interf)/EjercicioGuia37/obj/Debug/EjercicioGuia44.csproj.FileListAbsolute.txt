@@ -8,3 +8,12 @@ E:\Programacion II\Ejercicios Guia\EjercicioGuia44\EjercicioGuia37\obj\Debug\Eje
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\EjercicioGuia37\obj\Debug\EjercicioGuia44.csproj.CopyComplete
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\EjercicioGuia37\obj\Debug\EjercicioGuia37.exe
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\EjercicioGuia37\obj\Debug\EjercicioGuia37.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\bin\Debug\EjercicioGuia37.exe.config
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\bin\Debug\EjercicioGuia37.exe
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\bin\Debug\EjercicioGuia37.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\bin\Debug\Clases.dll
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\bin\Debug\Clases.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\obj\Debug\EjercicioGuia44.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\obj\Debug\EjercicioGuia44.csproj.CopyComplete
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\obj\Debug\EjercicioGuia37.exe
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\EjercicioGuia37\obj\Debug\EjercicioGuia37.pdb

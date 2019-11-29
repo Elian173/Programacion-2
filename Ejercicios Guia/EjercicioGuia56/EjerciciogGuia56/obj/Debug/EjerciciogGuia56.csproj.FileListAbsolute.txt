@@ -18,3 +18,12 @@ E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj
 E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.csproj.CoreCompileInputs.cache
 E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.exe
 E:\Facultad\Programacion II\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\bin\Debug\EjerciciogGuia56.exe.config
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\bin\Debug\EjerciciogGuia56.exe
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\bin\Debug\EjerciciogGuia56.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.Form1.resources
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.Properties.Resources.resources
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.csproj.GenerateResource.cache
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.exe
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia56\EjerciciogGuia56\obj\Debug\EjerciciogGuia56.pdb

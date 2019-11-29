@@ -34,3 +34,8 @@ E:\Programacion II\Ejercicios Guia\EjercicioGuia44\Clases\obj\Debug\Clases.cspro
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\Clases\obj\Debug\Clases.dll
 E:\Programacion II\Ejercicios Guia\EjercicioGuia44\Clases\obj\Debug\Clases.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\Clases\bin\Debug\Clases.dll
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\Clases\bin\Debug\Clases.pdb
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\Clases\obj\Debug\Clases.dll
+C:\Users\Elian\Desktop\Arreglo repositorios\Programacion-2\Ejercicios Guia\EjercicioGuia51 (centralita + interf)\Clases\obj\Debug\Clases.pdb
